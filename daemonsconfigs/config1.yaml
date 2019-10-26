@@ -1,0 +1,4 @@
+port: 3434
+file_distribution_directory: /home/dzhamal/storage/b
+save_file: False
+nodes:
